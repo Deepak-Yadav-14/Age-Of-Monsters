@@ -27,7 +27,7 @@ You control a small hero on a grassy battlefield surrounded by enemies. Use the 
 
 ### Download
 
-[⬇️ **Download APK**]([#](https://github.com/Deepak-Yadav-14/Age-Of-Monsters/releases/download/v1.0.0/Age.Of.Monster.apk))
+[⬇️ **Download APK**](https://github.com/Deepak-Yadav-14/Age-Of-Monsters/releases/download/v1.0.0/Age.Of.Monster.apk)
 
 ### Screenshots
 
