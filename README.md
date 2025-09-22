@@ -5,7 +5,7 @@
 
 **Age of Monsters** is a thrilling **2D top-down shooter** for Android where players fight through waves of monsters and bosses to survive. It’s designed with smooth mobile controls, fast action, and a colorful yet dark atmosphere.
 
-### Download
+### Watch On Youtube
 
 [⬇️ **Watch Showreel**](https://youtu.be/MedntCC3fnY?si=DkW3HYlFKCMqMOjQ)
 
