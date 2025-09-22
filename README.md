@@ -9,8 +9,8 @@
 
 You control a small hero on a grassy battlefield surrounded by enemies. Use the onscreen joystick to move and the attack button to shoot. Survive waves of enemies, collect health, and defeat powerful bosses.
 
-![Screenshot 1](images/1.jpg)
-![Screenshot 2](images/2.jpg)
+![Screenshot 1](https://github.com/Deepak-Yadav-14/Age-Of-Monsters/blob/main/Age%20of%20Monsters%20images/1.jpg)
+![Screenshot 2](https://github.com/Deepak-Yadav-14/Age-Of-Monsters/blob/main/Age%20of%20Monsters%20images/2.jpg)
 
 ### Features
 
@@ -31,7 +31,7 @@ You control a small hero on a grassy battlefield surrounded by enemies. Use the 
 
 ### Screenshots
 
-| ![Screenshot 1](3.jpg) | ![Screenshot 2](4.jpg) |
+| ![Screenshot 1](https://github.com/Deepak-Yadav-14/Age-Of-Monsters/blob/main/Age%20of%20Monsters%20images/3.jpg) | ![Screenshot 2](https://github.com/Deepak-Yadav-14/Age-Of-Monsters/blob/main/Age%20of%20Monsters%20images/4.jpg) |
 | --------------------------------------------------------- | --------------------------------------------------------- |
 
 ### About the Developer
